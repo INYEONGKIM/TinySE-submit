@@ -9,6 +9,7 @@ import java.util.List;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.Ignore;
 
 import edu.hanyang.indexer.DocumentCursor;
 import edu.hanyang.indexer.IntermediateList;
